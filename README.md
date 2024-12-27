@@ -1,7 +1,6 @@
-[![MasterHead](https://unsplash.com/photos/gray-and-black-laptop-computer-on-surface-Im7lZjxeLhg)
+![MasterHead](https://i.giphy.com/du3J3cXyzhj75IOgvA.webp)
 <h1 align="center">Hi 👋, I'm Mohd Kaif</h1>
 <h3 align="center">I'm a wanderer in TECH SHANGRI-LA</h3>
-<img aliegn="right" alt="Coding Joke" width = "400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjU0ZDlybTJxeHVzOGJvNG00eDl4YXFxdDFxZ3EyZWloeGp1bXN1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vcdbi5o470i9FACaZO/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaifbilal&label=Profile%20views&color=0e75b6&style=flat" alt="kaifbilal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaifbilal" alt="kaifbilal" /></a> </p>
